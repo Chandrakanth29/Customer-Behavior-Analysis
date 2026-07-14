@@ -16,15 +16,36 @@ This project explores customer behavior using the [Kaggle Online Retail Dataset]
 
 ---
 
-## 🧰 Tools Used
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
 - Plotly Express
-- Seaborn
-- Jupyter Notebook
 
 ---
+
+## 📊 Customer Distribution
+
+![Customer Distribution](images/customer_distribution.png)
+
+---
+
+## 🌍 Revenue by Country
+
+![Revenue by Country](images/revenue_country.png)
+
+---
+
+## 💰 Customer Lifetime Value (CLV)
+
+![CLV](images/clv_segmentation.png)
+
+---
+
+## 📈 Funnel Analysis
+
+![Funnel](images/funnel_analysis.png)
+
 
 ## 📈 Output
 
