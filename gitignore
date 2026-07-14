@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.DS_Store
+
+# Raw dataset intentionally excluded -- see README for download instructions.
+# Too large to commit sensibly; it's a public Kaggle dataset, not source code.
+data.csv
