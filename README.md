@@ -68,21 +68,6 @@ Customer-Behavior-Analysis/
 ![Customer Distribution by Country](images/customer_distribution_by_country.png)
 *Transaction volume by country, highlighting the store's primary markets.*
 
-### Quantity vs. Unit Price
-![Quantity vs Unit Price](images/quantity_vs_unit_price.png)
-*Relationship between quantity purchased and unit price, with an OLS trendline.*
-
-### Average Quantity by Country (Top 10)
-![Average Quantity by Country](images/avg_quantity_by_country.png)
-*The 10 countries with the highest average quantity purchased per transaction.*
-
-### Customer Segmentation by CLV
-![CLV Segments](images/clv_segments.png)
-*Customers grouped into Low / Medium / High value segments based on total lifetime spend.*
-
-### Customer Conversion Funnel
-![Conversion Funnel](images/conversion_funnel.png)
-*Funnel from unique customers to unique transactions to total quantity purchased.*
 
 > **Status:** these charts are not yet generated in this repo — `images/` is currently empty because `data.csv` hasn't been added yet (see Dataset section). Run the script locally with the real dataset to populate this folder, then commit the PNGs. No placeholder or fabricated images are included here.
 
